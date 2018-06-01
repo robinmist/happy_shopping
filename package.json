@@ -15,7 +15,6 @@
     "gulp": "",
     "browserify": "",
     "aliasify": "",
-    "gulp": "",
     "vinyl-buffer": "",
     "babelify": "",
     "gulp-sourcemaps": "",
@@ -26,8 +25,8 @@
     "browserify-transform-tools": ""
   },
   "aliasify": {
-        "aliases": {
-            "react-native": "react"
-        }
+    "aliases": {
+      "react-native": "react"
     }
+  }
 }
